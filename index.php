@@ -7,7 +7,7 @@
 
 	    <script src="js/JSARToolKit.min.js"></script>
 	    <script src="js/magi.js"></script>
-	    <script src="js/ok.js"></script>
+	    <script src="js/ra.js"></script>
 </head>
 <body>
 

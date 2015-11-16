@@ -8,7 +8,7 @@
     
   // --------- SE CARGA EL MODELO 3D ---- //
 
-    var w = Magi.Bin.load('walas.bin');
+    var w = Magi.Bin.load('modelos/walas.bin');
     w.flatNormals = false;
   // ----------------------------------- //
 
@@ -17,7 +17,7 @@
   // ----- CARGA DEL VIDEO O WEBCAM ----------------//
     
     var video = document.createElement('video');
-    video.src = "output_4.ogg";
+    video.src = "modelos/output_4.ogg";
     video.width = 320;
     video.height = 240;
     video.loop = true;
